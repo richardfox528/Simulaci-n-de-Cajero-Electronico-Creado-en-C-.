@@ -6,7 +6,7 @@ namespace Cajero
     {
         static void Main(string[] args)
         {
-            Console.Title = "Cajero STH BanPolombia";
+            Console.Title = "Cajero STH BanPolombia 😝";
             
             Cajero cajero = new Cajero();
             cajero.Menu();
